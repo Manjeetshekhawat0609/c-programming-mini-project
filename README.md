@@ -37,3 +37,5 @@ More C programming mini projects will be added to this repository as I continue 
 ---
 
 Learning • Practicing • Building with C 🚀
+
+Author- Manjeet Singh Shekhawat
